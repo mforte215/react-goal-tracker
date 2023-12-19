@@ -1,0 +1,28 @@
+.new-goal {
+  margin: 2rem;
+  text-align: center;
+}
+
+.new-goal input {
+  font-size: 2rem;
+  margin-right: 3%;
+  border: 2px solid #2aef27;
+  background-color: transparent;
+  color: #2aef27;
+  padding-left: 5px;
+  font-family: "Oswald", sans-serif;
+}
+
+.new-goal input:active {
+  border: 2px solid #2aef27;
+}
+
+.new-goal button {
+  font-size: 2rem;
+  background-color: transparent;
+  color: #2aef27;
+  padding: 10px;
+  border-radius: 10px;
+  border: 2px solid #2aef27;
+  font-family: "Oswald", sans-serif;
+}
