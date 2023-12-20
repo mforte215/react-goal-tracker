@@ -8,7 +8,7 @@ const NewGoal = (props) => {
     event.preventDefault();
 
     const newGoal = {
-      id: Math.random().toString(),
+      id: "goal-" + Math.random().toString(),
       text: userInput,
     };
 
